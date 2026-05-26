@@ -26,7 +26,7 @@
 - **[个人主页](https://wzye.top/)**: 响应式的个人介绍静态网站。
 - **[生日祝福互动页](https://challenge.wzye.top/)**: 带有特效和音乐的 3D 互动祝福网页。
 
-### 📚 [离散数学期末复习手册](https://gaoshu-notes.pages.dev)
+### 📚 [高等数学期末复习手册](https://gaoshu-notes.pages.dev)
 将我个人的学习笔记进行「产品化」封装的网页，结构化地帮助同学高效通过期末考试。
 
 ## 💡 我的工作理念
