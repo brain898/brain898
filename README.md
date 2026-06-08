@@ -29,6 +29,14 @@
 ### 📚 [高等数学期末复习手册](https://gaoshu-notes.pages.dev)
 将我个人的学习笔记进行「产品化」封装的网页，结构化地帮助同学高效通过期末考试。
 
+## 🧠 Claude Code Skills
+
+把可复用的工作流封装成 Claude Code Skill。
+
+### [super-forecaster](https://github.com/brain898/brain898/tree/master/skills/super-forecaster)
+基于万维钢《超级预测》方法论的人+AI 协作判断工具。我抛出决策纠结，AI 会帮我识别真正要预测的问题，做费米化拆解，搜集参考类数据，给出反方理由，最后出一个明确概率并写进 Excel 决策账本，到期自动触发提醒回来结算。AI 负责资料汇集和把自尊从判断里剥离，问题边界和最终判断由我自己做。
+- **技术栈:** Claude Code Skill, openpyxl, scheduled-tasks MCP
+
 ## 💡 我的工作理念
 - **实用主义:** 能用就行，不追求完美，核心是把产品交付上线。
 - **行动导向:** 先做再说，不要等「准备好了」才开始。
