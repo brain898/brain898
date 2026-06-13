@@ -4,7 +4,7 @@
 Fixed columns: 日期 / 决策题目 / 费米化子问题 / 我的概率 / 截止日 / 参考类来源 / 魔鬼代言人理由 / 实际结果 / 反思
 
 Usage:
-    python append_decision.py --xlsx "D:/***REMOVED***/10决策系统/decisions.xlsx" \
+    python append_decision.py --xlsx "./decisions.xlsx" \
         --date 2026-06-07 \
         --title "..." \
         --subquestions "Q1...|Q2...|Q3..." \

@@ -2,7 +2,7 @@
 """Initialize an empty decisions.xlsx with the fixed header row.
 
 Usage:
-    python init_ledger.py --xlsx "D:/***REMOVED***/10决策系统/decisions.xlsx"
+    python init_ledger.py --xlsx "./decisions.xlsx"
 
 If the file already exists and the header is correct, exits without changes.
 """
