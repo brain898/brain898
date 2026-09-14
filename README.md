@@ -1,14 +1,17 @@
 # 👋 嗨，我是 叶文哲 (Wenzhe Ye)
 
-我是一名 **AI 应用开发者**，也是***REMOVED***计算机专业的学生。
+我是叶文哲，一名**软件工程专业的大二学生**，也是一名 **AI 应用开发者**。
 
-我热衷于构建实用的工具，并不断探索 AI 辅助开发的边界。我坚信「做出产品比纯钻研理论更有价值」，通过使用大语言模型（LLMs）来提升自己的开发效率并创造实际价值。
+我用 AI 做真实项目：开发个人工具、搭建自动化工作流，并把实践方法封装成可复用的 Agent Skills。近期作品包括个人工作台 Forge、大学罗盘，以及从竞赛调研实践中整理出的报告写作 Skill。
+
+我关注的不只是 AI 能生成什么，还包括哪些判断需要自己完成、结果怎样验证。
 
 ## 🛠️ 我的技术栈
 - **编程语言:** Python, C, TypeScript, JavaScript
 - **前端开发:** Next.js, React, Tailwind CSS, HTML/CSS
-- **AI 与自动化:** 大语言模型 (Claude, Gemini, DeepSeek), GitHub Actions, 提示词工程 (Prompt Engineering), Agent 开发
-- **后端与数据库:** Supabase
+- **AI 与自动化:** Claude Code, Codex, Gemini, DeepSeek, Agent Skills, GitHub Actions, 提示词工程
+- **后端与数据存储:** Supabase, IndexedDB
+- **部署与应用:** Cloudflare Pages, Wrangler CLI, PWA
 
 ## 🚀 精选项目
 
@@ -17,7 +20,8 @@
 - **技术栈:** React, IndexedDB, PWA
 - **在线体验:** [打开个人工作台](https://workbench.wzye.top/#daily-plan)
 
-### 📈 [炒股日报分析 Agent (Gold Daily)](https://github.com/brain898/gold-daily)
+### 📈 黄金日报分析 Agent (Gold Daily)
+**状态：** 个人项目，源码未公开。
 一个全自动的 AI Agent 工具，用于每日分析黄金市场。它会自动抓取市场数据，利用大模型生成洞察，并自动推送每日分析报告。
 - **技术栈:** Python, GitHub Actions, 大模型 API
 
@@ -27,12 +31,20 @@
 
 ### 🌐 [AI 辅助开发的 Web 产品集 (Web Products)](https://github.com/brain898/web-products)
 这个仓库展示了我从需求分析、代码生成到部署上线，利用 AI 闭环开发的几个 Web 产品。
-- **[问卷悬赏系统 (Survey Bounty)](https://survey.wzye.top/)**: 一个带有悬赏机制的问卷平台，基于 Next.js 和 Supabase 构建。
+- **[问卷悬赏系统 (Survey Bounty)](https://survey.wzye.top/)**: 基于 Next.js 和 Supabase 构建的问卷悬赏平台原型，可发布问卷并设置悬赏金额；尚未实际运营。[查看源码](https://github.com/brain898/survey-bounty)。
 - **[个人主页](https://wzye.top/)**: 响应式的个人介绍静态网站。
 - **[生日祝福互动页](https://challenge.wzye.top/)**: 带有特效和音乐的 3D 互动祝福网页。
 
 ### 📚 [高等数学期末复习手册](https://gaoshu-notes.pages.dev)
 将我个人的学习笔记进行「产品化」封装的网页，结构化地帮助同学高效通过期末考试。
+
+## 🔎 AI 协作调研实践
+
+### 油车配件企业新能源转型
+参与企业与行业预研、实地深访、报告撰写及路演展示。用 AI 辅助整理资料、设计访谈提纲、核对材料覆盖情况和生成 PPT 大纲；本人负责实际访谈、证据判断、错误修正与逐章复核，并将写作流程整理为[开源 Skill](https://github.com/brain898/write-competition-research-reports)。
+
+- **团队成果:** 2026 年温岭市“城市青年密码”大学生返乡实践项目大赛一等奖。
+- **我的贡献:** 行业研究、企业深访、路演核心展示，以及 AI 辅助调研流程的整理与复核。
 
 ## 🧠 Agent Skills
 
@@ -51,9 +63,9 @@
 - **技术栈:** Claude Code Skill, openpyxl, scheduled-tasks MCP
 
 ## 💡 我的工作理念
-- **实用主义:** 能用就行，不追求完美，核心是把产品交付上线。
-- **行动导向:** 先做再说，不要等「准备好了」才开始。
-- **AI Native:** 深度依赖并积极使用 Claude / Gemini 等 AI 工具作为我的思考伙伴和编程外脑。
+- **从真实需求出发:** 用具体任务检验工具的价值。
+- **人负责判断:** AI 辅助开发、整理与写作，关键取舍和结果复核由我完成。
+- **交付之后看反馈:** 做出来、上线和有人使用，是三个需要分别验证的阶段。
 
 ---
 期待能有机会交流与合作！
