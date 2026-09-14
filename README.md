@@ -12,6 +12,11 @@
 
 ## 🚀 精选项目
 
+### 🧭 [Forge · 个人工作台](https://workbench.wzye.top/#daily-plan)
+把每日计划、实战推进、学习记录、习惯与收入管理放进一个个人工作台，帮助我安排当天要做的事，并持续记录项目进展。
+- **技术栈:** React, IndexedDB, PWA
+- **在线体验:** [打开个人工作台](https://workbench.wzye.top/#daily-plan)
+
 ### 📈 [炒股日报分析 Agent (Gold Daily)](https://github.com/brain898/gold-daily)
 一个全自动的 AI Agent 工具，用于每日分析黄金市场。它会自动抓取市场数据，利用大模型生成洞察，并自动推送每日分析报告。
 - **技术栈:** Python, GitHub Actions, 大模型 API
@@ -29,9 +34,17 @@
 ### 📚 [高等数学期末复习手册](https://gaoshu-notes.pages.dev)
 将我个人的学习笔记进行「产品化」封装的网页，结构化地帮助同学高效通过期末考试。
 
-## 🧠 Claude Code Skills
+## 🧠 Agent Skills
 
-把可复用的工作流封装成 Claude Code Skill。
+把可复用的工作流封装成 Agent Skill，用于规划、写作与人机协作判断。
+
+### 🎓 [大学罗盘 (college-compass)](https://github.com/brain898/college-compass)
+面向中国大学生的生涯规划 Skill，围绕求职、考研、专升本、保研、留学、考公六条路线，对照各自的考察维度，梳理已有经历、目标差距和下一步行动。支持方向探索、具体决策和完整规划，每个判断都要求说明依据。
+- **适用平台:** Claude Code, Codex
+
+### 📝 [竞赛调研报告写作 (write-competition-research-reports)](https://github.com/brain898/write-competition-research-reports)
+把真实问卷、访谈和观察材料转化为中文竞赛调研报告，支持起草、审稿、压缩与答辩风险检查。以「结论强度不超过证据强度」为核心约束，要求交代材料范围、实名授权状态、字数变化和链接核验结果。
+- **适用平台:** Claude Code, Codex
 
 ### [super-forecaster](https://github.com/brain898/brain898/tree/master/skills/super-forecaster)
 基于万维钢《超级预测》方法论的人+AI 协作判断工具。我抛出决策纠结，AI 会帮我识别真正要预测的问题，做费米化拆解，搜集参考类数据，给出反方理由，最后出一个明确概率并写进 Excel 决策账本，到期自动触发提醒回来结算。AI 负责资料汇集和把自尊从判断里剥离，问题边界和最终判断由我自己做。
