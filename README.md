@@ -1,19 +1,33 @@
 # 👋 嗨，我是 叶文哲 (Wenzhe Ye)
 
+[![个人主页 wzye.top](https://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E4%B8%BB%E9%A1%B5-wzye.top-ff8a7a?style=for-the-badge)](https://wzye.top)
+
+**个人主页：[wzye.top](https://wzye.top)**，作品集、项目复盘和知行有策宣传片都在这里。
+
 我是叶文哲，一名**软件工程专业的大二学生**，也是一名 **AI 应用开发者**。
 
-我用 AI 做真实项目：开发个人工具、搭建自动化工作流，并把实践方法封装成可复用的 Agent Skills。近期作品包括个人工作台 Forge、大学罗盘，以及从竞赛调研实践中整理出的报告写作 Skill。
+我用 AI 做真实项目：开发个人工具、搭建自动化工作流，并把实践方法封装成可复用的 Agent Skills。近期作品包括物业知识 AI Skill 平台知行有策、个人工作台 Forge、大学罗盘，以及从竞赛调研实践中整理出的报告写作 Skill。
 
 我关注的不只是 AI 能生成什么，还包括哪些判断需要自己完成、结果怎样验证。
 
 ## 🛠️ 我的技术栈
 - **编程语言:** Python, C, TypeScript, JavaScript
-- **前端开发:** Next.js, React, Tailwind CSS, HTML/CSS
+- **前端与桌面端:** Next.js, React, Electron, Tailwind CSS, HTML/CSS
 - **AI 与自动化:** Claude Code, Codex, Gemini, DeepSeek, Agent Skills, GitHub Actions, 提示词工程
-- **后端与数据存储:** Supabase, IndexedDB
+- **后端与数据存储:** FastAPI, SQLite, Supabase, IndexedDB
 - **部署与应用:** Cloudflare Pages, Wrangler CLI, PWA
 
 ## 🚀 精选项目
+
+### [知行有策 · 物业知识 AI Skill 生产平台](https://github.com/brain898/zhixing-desktop)
+
+[![知行有策宣传片封面，点击到个人主页观看宣传片](https://wzye.top/assets/zhixing/zhixing-promo-poster.jpg)](https://wzye.top)
+
+把物业咨询的制度、方法、案例和专家经验萃取成可溯源的知识原子，在 Skill 工厂组装、评测、人工审核后上架，再由 Agent 按问题自动编排多个 Skill，给出有依据的咨询报告，每条结论都能回到原文。
+- **我的角色:** 技术负责人，桌面端由我独立开发（13 人团队，参加浙江省国际大学生创新大赛产业赛道）
+- **技术栈:** Electron, React, FastAPI, SQLite, DeepSeek, BGE
+- **宣传片:** [在个人主页首屏观看](https://wzye.top)
+- **源码:** [brain898/zhixing-desktop](https://github.com/brain898/zhixing-desktop)
 
 ### 🧭 [Forge · 个人工作台](https://workbench.wzye.top/#daily-plan)
 把每日计划、实战推进、学习记录、习惯与收入管理放进一个个人工作台，帮助我安排当天要做的事，并持续记录项目进展。
